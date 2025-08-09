@@ -1,0 +1,7 @@
+
+{
+  "name": "Aura",
+  "description": "A smart, conversational assistant that helps you remember what to bring by creating categorized checklists based on your plans, integrating weather suggestions and context-aware reminders.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
